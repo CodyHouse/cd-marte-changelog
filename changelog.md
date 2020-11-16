@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this template will be documented in this file.
 
+## [1.0.2] - 2020-11-16
+- Added type attribute to button elements in date picker and number input form elements
+
 ## [1.0.1] - 2020-09-25
 - Updated to CodyFrame 2.8
 - Minor bug fixes
