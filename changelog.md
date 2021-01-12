@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this template will be documented in this file.
 
+## [1.0.3] - 2021-01-12
+- Fixed issue with date-range component
+
 ## [1.0.2] - 2020-11-16
 - Added type attribute to button elements in date picker and number input form elements
 
